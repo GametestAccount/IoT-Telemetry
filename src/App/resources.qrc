@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/[removal.ai]_b244236a-74dd-4fb1-b243-15e51e5163d4-image.png</file>
+        <file>resources/themes/Bluish/splash_screen.jpg</file>
+        <file>resources/themes/Bluish/ui_en_US.jpg</file>
+        <file>resources/themes/Bluish/ui_ru_RU.jpg</file>
+        <file>resources/themes/Burgundy/splash_screen.jpg</file>
+        <file>resources/themes/Burgundy/ui_en_US.jpg</file>
+        <file>resources/themes/Burgundy/ui_ru_RU.jpg</file>
+        <file>resources/themes/Cloudy/splash_screen.jpg</file>
+        <file>resources/themes/Cloudy/ui_en_US.jpg</file>
+        <file>resources/themes/Cloudy/ui_ru_RU.jpg</file>
+        <file>resources/themes/Dark/splash_screen.jpg</file>
+        <file>resources/themes/Dark/ui_en_US.jpg</file>
+        <file>resources/themes/Dark/ui_ru_RU.jpg</file>
+        <file>resources/themes/Rosy/splash_screen.jpg</file>
+        <file>resources/themes/Rosy/ui_en_US.jpg</file>
+        <file>resources/themes/Rosy/ui_ru_RU.jpg</file>
+        <file>resources/themes/Sunrise/splash_screen.jpg</file>
+        <file>resources/themes/Sunrise/ui_en_US.jpg</file>
+        <file>resources/themes/Sunrise/ui_ru_RU.jpg</file>
+        <file>resources/icons/icons8-about-50.png</file>
+        <file>resources/icons/icons8-language-64.png</file>
+        <file>resources/icons/icons8-server-50.png</file>
+        <file>resources/icons/icons8-substitute-64.png</file>
+        <file>resources/icons/icons8-theme-50.png</file>
+        <file>resources/icons/icons8-budget-limit-50.png</file>
+        <file>resources/flat.png</file>
+        <file>resources/details/icons8-ветер-64.png</file>
+        <file>resources/details/icons8-гигрометр-64.png</file>
+        <file>resources/details/icons8-снежинка-64.png</file>
+        <file>resources/details/icons8-солнце-64.png</file>
+        <file>resources/icons8-wind-turbine-50.png</file>
+        <file>resources/icons8-ветряной-генератор.gif</file>
+    </qresource>
+</RCC>
